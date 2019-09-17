@@ -1,0 +1,13 @@
+C:\Users\pankaj_shukla2\Documents\Demo\TestFailure\TestFailure\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\pankaj_shukla2\Documents\Demo\TestFailure\TestFailure\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\pankaj_shukla2\Documents\Demo\TestFailure\TestFailure\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\pankaj_shukla2\Documents\Demo\TestFailure\TestFailure\bin\Debug\netcoreapp2.1\DemoTest.deps.json
+C:\Users\pankaj_shukla2\Documents\Demo\TestFailure\TestFailure\bin\Debug\netcoreapp2.1\DemoTest.runtimeconfig.json
+C:\Users\pankaj_shukla2\Documents\Demo\TestFailure\TestFailure\bin\Debug\netcoreapp2.1\DemoTest.runtimeconfig.dev.json
+C:\Users\pankaj_shukla2\Documents\Demo\TestFailure\TestFailure\bin\Debug\netcoreapp2.1\DemoTest.dll
+C:\Users\pankaj_shukla2\Documents\Demo\TestFailure\TestFailure\bin\Debug\netcoreapp2.1\DemoTest.pdb
+C:\Users\pankaj_shukla2\Documents\Demo\TestFailure\TestFailure\obj\Debug\netcoreapp2.1\DemoTest.csproj.CoreCompileInputs.cache
+C:\Users\pankaj_shukla2\Documents\Demo\TestFailure\TestFailure\obj\Debug\netcoreapp2.1\DemoTest.AssemblyInfoInputs.cache
+C:\Users\pankaj_shukla2\Documents\Demo\TestFailure\TestFailure\obj\Debug\netcoreapp2.1\DemoTest.AssemblyInfo.cs
+C:\Users\pankaj_shukla2\Documents\Demo\TestFailure\TestFailure\obj\Debug\netcoreapp2.1\DemoTest.dll
+C:\Users\pankaj_shukla2\Documents\Demo\TestFailure\TestFailure\obj\Debug\netcoreapp2.1\DemoTest.pdb
